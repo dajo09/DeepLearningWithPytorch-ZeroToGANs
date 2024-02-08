@@ -1,6 +1,6 @@
 ## DeepLearningWithPytorch-ZeroToGANs
 
-##Cats and Dogs Classification using Feed Forward and Convolutional Neural Networks in PyTorch
+## Cats and Dogs Classification using Feed Forward and Convolutional Neural Networks in PyTorch
 
 --- 
 
@@ -48,5 +48,7 @@ def show_example(img, label):
   show_example(*dataset_raw[9]) #image before normalization
 <img width="705" alt="pytorch image" src="https://github.com/dajo09/DeepLearningWithPytorch-ZeroToGANs/assets/33592524/2e1af430-7369-4f28-a80e-29a9ea562878">
 
+
+[view my notebook on jovian.com](https://jovian.com/dajo09/zerotogans-course-project)
 
 
